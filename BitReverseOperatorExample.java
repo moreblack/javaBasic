@@ -9,7 +9,7 @@ public class BitReverseOperatorExample {
 		int num4 = 10000000;
 
 
-	system.out.println("Hello,world")
+	System.out.println("Hello,world");
 
 		// java add....
 
@@ -20,6 +20,9 @@ public class BitReverseOperatorExample {
 		System.out.println(returnValue);
 
 		String returnValue2 = toBinaryString(num3);
+		System.out.println(returnValue2);
+
+		String returnValue3 = toBinaryString(num4);
 		System.out.println(returnValue2);
 	}
 

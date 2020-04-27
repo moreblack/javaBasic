@@ -10,10 +10,10 @@ public class AtrithmeticOperatorExample{
 		System.out.println("result: " + result);
 	
         int num3 = 123;
-        if () {
-			System.out.println("Even")
+        if (num3 % 2 == 0) {
+			System.out.println("Even");
 		} else {
-			System.out.println("odd")
+			System.out.println("odd");
 		}
           		
 	
